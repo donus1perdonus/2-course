@@ -1,3 +1,4 @@
 # cmake-build-debug directory
-/graph-tests
-__pycache__/
+build/
+.venv/
+.vscode/
